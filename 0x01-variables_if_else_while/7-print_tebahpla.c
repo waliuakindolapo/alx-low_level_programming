@@ -1,13 +1,13 @@
 #include <stdio>
 
 /**
-*main- mirrors the input
-*Return: returns 0
+*main- This list alphabet in reverse
+*Return: This returns 0
 */
 
 int main(void)
 {
-	int i;
+	char i;
 
 	for (i = 'z'; i >= 'a'; i--)
 	{
