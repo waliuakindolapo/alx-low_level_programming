@@ -2,12 +2,12 @@
 
 /**
 *main- mirrors the input
-*Return: return 0
+*Return: returns 0
 */
 
 int main(void)
 {
-	char i;
+	int i;
 
 	for (i = 'z'; i >= 'a'; i--)
 	{
