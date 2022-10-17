@@ -2,7 +2,7 @@
 
 /**
 *main- program enrty point
-*Return: returns 0
+*Return: This returns 0
 */
 
 int main(void)
@@ -15,7 +15,7 @@ int main(void)
 	}
 	if (num == '9')
 	{
-	break;
+		break;
 	}
 	else
 	{
