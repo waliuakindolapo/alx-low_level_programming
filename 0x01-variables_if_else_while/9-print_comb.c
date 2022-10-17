@@ -16,7 +16,7 @@ int main(void)
 	{
 		putchar (',');
 	}
-	for (num <= 9)
+	for (num < '9')
 	{
 		putchar (' ');
 	}
