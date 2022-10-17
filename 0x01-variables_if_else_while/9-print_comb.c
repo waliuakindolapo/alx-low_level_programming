@@ -7,19 +7,20 @@
 
 int main(void)
 {
-	int num;
+	int n;
 
-	for (num = '0'; num <= '9'; num++)
+	for (n = '0'; n <= '9'; n++)
 	{
-		putchar (num + '0');
+		putchar (n + '0');
 	}
+	if ("n +'0'" < '9')
 	{
 		putchar (',');
 	}
-	for (num < '9')
 	{
 		putchar (' ');
 	}
+	else
 	{
 		putchar ('\n');
 	}
