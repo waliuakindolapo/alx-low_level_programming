@@ -17,7 +17,7 @@ int main(void)
 		putchar (',');
 	}
 	{
-		PUtchar ('');
+		putchar (" ");
 	}
 	{
 		putchar ('\n');
