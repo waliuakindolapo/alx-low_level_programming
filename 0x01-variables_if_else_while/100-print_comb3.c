@@ -35,5 +35,5 @@ int main(void)
 		k++;
 	}
 	putchar('\n');
-	retur (0);
+	return (0);
 }
