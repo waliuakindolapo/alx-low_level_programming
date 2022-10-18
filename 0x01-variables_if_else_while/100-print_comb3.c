@@ -11,8 +11,8 @@ int main(void)
 
 	for (i = '0'; i <= '9'; i++)
 	{
-	for (j = k; j <= '9'; j++)
-			{
+		for (j = k; j <= '9'; j++)
+		{
 				if (i != j)
 				{
 					putchar(i);
@@ -31,7 +31,7 @@ int main(void)
 					putchar(',');
 					putchar(' ');
 				}
-			}
+		}
 		k++;
 	}
 	putchar('\n');
